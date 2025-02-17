@@ -1,0 +1,1 @@
+In this lab we had to do a number of things in order to try and grasp the basics concepts of Git.  We had to add a new branch to our repository which we also just created using Github.  We then add 3 files to the repository using a specific commit message.  The 3 files are student-info.txt, report.md and index.html.  We then deploy our website using Github Pages.
